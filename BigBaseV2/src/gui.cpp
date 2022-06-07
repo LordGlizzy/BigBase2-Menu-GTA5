@@ -90,7 +90,7 @@ namespace big
 	{
 		TRY_CLAUSE
 		{
-			if (ImGui::Begin("BigBaseV2"))
+			if (ImGui::Begin("nigga menu"))
 			{
 				ImGui::BeginTabBar("tabbar");
 				render_player_tab();
